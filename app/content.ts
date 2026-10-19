@@ -1,4 +1,4 @@
-export const linkedin = 'https://www.linkedin.com/company/dadataco/';
+export const linkedin = 'https://www.linkedin.com/company/dadataco/?viewAsMember=true';
 export const services = [
  ['Databricks & Unity Catalog', 'Lakehouse architecture, Delta Lake, PySpark, SQL, batch and streaming pipelines, access controls, metadata, and CI/CD.'],
  ['Collibra & Data Governance', 'Governance operating models, business glossaries, catalogs, ownership, stewardship, custom Java and Groovy workflows, and Collibra Edge.'],
